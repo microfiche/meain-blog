@@ -1,0 +1,787 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meain/blog</title>
+    <link href="/img/favicon.png" rel='icon' type='image/x-icon'/>
+    <meta name="Description" content="Meain&#39;s blog">
+    <style>html{@media (prefers-color-scheme: dark) {background-color: black;}}</style>
+    <link rel="stylesheet" href="/css/index.css" />
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css" />
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="meain/blog" />
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500&display=swap" rel="stylesheet"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.2.0/turbolinks.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="/">meain/blog</a></h1>
+      <ul class="nav">
+        
+        
+        <li class="nav-item"><a href="/about/">About</a></li>
+        
+      <li class="nav-item">
+        <a rel="alternate" type="application/rss+xml" href="/feed.xml">RSS</a>
+      </li>
+      </ul>
+    </header>
+
+    <main class="tmpl-home">
+      
+<p class="lead">
+Hi, I'm <code>Abin Simon</code>, a <i>Research Engineer</i>.
+And this was supposed to be filled with `site.author.bio` had I written one.
+</p>
+
+
+
+<ol reversed class="postlist" style="counter-reset: start-from 40">
+
+
+  
+  
+
+  
+  
+  
+    
+    <h1 class="category-title">2021 ¬</h1>
+    
+  
+
+  <li class="postlist-item">
+    <a href="/2021/zoom-into-zoom/" class="postlist-link">Zooming into Zoom meetings </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2021-07-31">Jul 31</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2021/edit-everything-in-emacs/" class="postlist-link">Edit everything in Emacs </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2021-07-26">Jul 26</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2021/airflow-template-in-dag/" class="postlist-link">Templating things in Airflow DAG </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2021-05-12">May 12</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2021/offline-markdown-preview/" class="postlist-link">Just a simple markdown previewer </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2021-04-27">Apr 27</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+    
+    <h1 class="category-title">2020 ¬</h1>
+    
+  
+
+  <li class="postlist-item">
+    <a href="/2020/my-workflow-hacks/" class="postlist-link">My workflow hacks </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-12-31">Dec 31</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/emacs-highlight-yanked/" class="postlist-link">Highlight yanked region in Emacs </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-11-20">Nov 20</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/bunch-of-git-stuff/" class="postlist-link">Just a bunch of git stuff </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-11-06">Nov 06</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/tmux-flating-scratch-terminal/" class="postlist-link">Floating scratch terminal in tmux </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-09-15">Sep 15</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/you-might-not-need-kubernetes/" class="postlist-link">What you need might not be Kubernetes </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-06-21">Jun 21</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/copy-last-opened-file-to-current-folder/" class="postlist-link">Copy file opened in macOS preview to working directory </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-06-02">Jun 02</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/completely-remove-a-file-from-git-history/" class="postlist-link">Completely remove a file from git history </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-05-22">May 22</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/what-exactly-are-stock-options/" class="postlist-link">What exactly are stock options? </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-05-20">May 20</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/a-simpler-method-for-reactive-ui/" class="postlist-link">A simpler method for a reactive UI </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-05-16">May 16</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/mounting-s3-bucket-kube/" class="postlist-link">Mounting S3 bucket in docker containers on kubernetes </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-04-12">Apr 12</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/auto-shutdown-no-ssh/" class="postlist-link">Auto shutdown VM if no active SSH connections </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-04-05">Apr 05</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2020/dynamic-reverse-proxy-kubernetes/" class="postlist-link">Dynamic reverse proxy using nginx in Kubernetes </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2020-03-30">Mar 30</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+    
+    <h1 class="category-title">2019 ¬</h1>
+    
+  
+
+  <li class="postlist-item">
+    <a href="/2019/switching-to-duckduckgo/" class="postlist-link">Switching to DuckDuckGo </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-12-17">Dec 17</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/nu-like-table-operations-in-bash/" class="postlist-link">Table operations like in Nu shell in BASH </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-11-16">Nov 16</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/canvas-svg-blob/" class="postlist-link">How to create a SVG blob thingy in HTML Canvas </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-11-12">Nov 12</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/making-sure-you-wont-commit-conflict-markers/" class="postlist-link">Making sure you won&#39;t commit conflict markers </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-10-11">Oct 11</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/accessing-kubernetes-api-from-pod/" class="postlist-link">Accessing Kubernetes API from a Pod (RBAC) </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-08-12">Aug 12</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/git_never_forgets_well_kinda/" class="postlist-link">Git never forgets, well kinda. `git-reflog` </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-08-10">Aug 10</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/set-local-file-as-newtabpage-in-firefox/" class="postlist-link">Setting local files as New Tab page in Firefox </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-07-27">Jul 27</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/understanding-kubernetes/" class="postlist-link">Understanding Kubernetes (Basics) </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-06-26">Jun 26</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/beginner-guide-to-tf-serving/" class="postlist-link">Beginners guide to tensorflow serving </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-05-11">May 11</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/automatically-ls-after-cd/" class="postlist-link">Automatically list files after cd </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-05-06">May 06</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/a-bit-more-comlex-nginx-config/" class="postlist-link">A bit more about configuring nginx (rewrite and alias) </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-04-30">Apr 30</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/simple-server-side-autocomplete/" class="postlist-link">How to do server side autocompletion (networking parts) </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-03-26">Mar 26</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/understanding-rust-macros/" class="postlist-link">Understanding Rust macros </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-02-17">Feb 17</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2019/a-really-simple-nginx-conf/" class="postlist-link">A really simple nginx config </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2019-01-08">Jan 08</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+    
+    <h1 class="category-title">2018 ¬</h1>
+    
+  
+
+  <li class="postlist-item">
+    <a href="/2018/publish-console-application-pypi/" class="postlist-link">Publishing a console application to pypi </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2018-12-28">Dec 28</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2018/docker-basics-react-app/" class="postlist-link">Docker basics </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2018-11-09">Nov 09</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2018/go-to-root-of-git-project/" class="postlist-link">Quickly go to project root </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2018-11-04">Nov 04</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2018/connect-redux-to-react/" class="postlist-link">Connecting `Redux` to `React`, simplified </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2018-01-24">Jan 24</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2018/profiling-yourself/" class="postlist-link">Take a picture of you every time you open your laptop </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2018-01-09">Jan 09</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+    
+    <h1 class="category-title">2017 ¬</h1>
+    
+  
+
+  <li class="postlist-item">
+    <a href="/2017/tictactoe-clojurescript-reagent/" class="postlist-link">Creating a tic-tac-toe game in Clojurescript using Reagent </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2017-09-28">Sep 28</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2017/ehh-webassembly/" class="postlist-link">Ehh, Webassembly? </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2017-08-27">Aug 27</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2017/how-emacs-took-over-my-vim-life/" class="postlist-link">How Emacs took over my Vim life </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2017-06-13">Jun 13</time>
+  </li>
+
+
+  
+  
+
+  
+  
+  
+
+  <li class="postlist-item">
+    <a href="/2017/make-vim-and-tmux-friends-with-system-clipboard/" class="postlist-link">How to make Vim and Tmux friends with system clipboard </a>
+    <!--  -->
+    <!---->
+    <!--  -->
+    <time class="postlist-date" datetime="2017-05-27">May 27</time>
+  </li>
+
+</ol>
+
+
+
+    </main>
+
+    <footer>
+      <small> I know you need more sleep! 😴 🙌 |  <a href="https://meain.io" title="">meain</a> </small>
+    </footer>
+
+    <!-- Current page: / -->
+
+    <script data-goatcounter="https://meain.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    <script>
+    function addCopyButtons(clipboard) {
+      document.querySelectorAll('pre > code').forEach(function (codeBlock) {
+        let codeDiv = document.createElement('div');
+        codeDiv.setAttribute("class", "code-wrapper");
+
+        let button = document.createElement('button');
+        button.className = 'copy-code-button';
+        button.type = 'button';
+        button.innerText = 'Copy';
+
+        button.addEventListener('click', function () {
+            clipboard.writeText(codeBlock.innerText).then(function () {
+                button.blur();
+                button.innerText = 'Copied!';
+                setTimeout(function () {button.innerText = 'Copy';}, 2000);
+            }, function (error) {button.innerText = 'Error';});
+        });
+        codeDiv.appendChild(button);
+        codeBlock.parentNode.parentNode.insertBefore(codeDiv, codeBlock.parentNode);
+        codeDiv.appendChild(codeBlock.parentNode);
+      });
+    }
+    if (navigator && navigator.clipboard) {
+      addCopyButtons(navigator.clipboard);
+    } else {
+      var script = document.createElement('script');
+      script.src = 'https://cdnjs.cloudflare.com/ajax/libs/clipboard-polyfill/2.7.0/clipboard-polyfill.promise.js';
+      script.integrity = 'sha256-waClS2re9NUbXRsryKoof+F9qc1gjjIhc2eT7ZbIv94=';
+      script.crossOrigin = 'anonymous';
+      script.onload = function() {
+          addCopyButtons(clipboard);
+      };
+      document.body.appendChild(script);
+    }
+    </script>
+    <script>
+      window.onload = () => {
+        const hoverTime = 400
+        const fetchers = {}
+        const doc = document.implementation.createHTMLDocument('prefetch')
+        function fetchPage (url, success) {
+          const xhr = new XMLHttpRequest()
+          xhr.open('GET', url)
+          xhr.setRequestHeader('VND.PREFETCH', 'true')
+          xhr.setRequestHeader('Accept', 'text/html')
+          xhr.onreadystatechange = () => {
+            if (xhr.readyState !== XMLHttpRequest.DONE) return
+            if (xhr.status !== 200) return
+            success(xhr.responseText)
+          }
+          xhr.send()
+        }
+        function prefetchTurbolink (url) {
+          fetchPage(url, responseText => {
+            doc.open()
+            doc.write(responseText)
+            doc.close()
+            const snapshot = Turbolinks.Snapshot.fromHTMLElement(doc.documentElement)
+            Turbolinks.controller.cache.put(url, snapshot)
+          })
+        }
+        function prefetch (url) {
+          if (prefetched(url)) return
+          prefetchTurbolink(url)
+        }
+        function prefetched (url) {
+          return location.href === url || Turbolinks.controller.cache.has(url)
+        }
+        function prefetching (url) {
+          return !!fetchers[url]
+        }
+        function cleanup (event) {
+          const element = event.target
+          clearTimeout(fetchers[element.href])
+          element.removeEventListener('mouseleave', cleanup)
+        }
+        document.addEventListener('mouseover', event => {
+          const url = event.target.href
+          if (!url) return
+          if (prefetched(url)) return
+          if (prefetching(url)) return
+          cleanup(event)
+          event.target.addEventListener('mouseleave', cleanup)
+          fetchers[url] = setTimeout(() => prefetch(url), hoverTime)
+        })
+      }
+    </script>
+  </body>
+</html>
